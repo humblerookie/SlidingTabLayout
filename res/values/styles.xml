@@ -1,0 +1,6 @@
+<declare-styleable name="SlidingTabLayout">
+        <attr name="defaultTextColor" format="color"/>
+        <attr name="selTextColor" format="color"/>
+        <attr name="capsAll" format="boolean"/>
+        <attr name="shouldExpand" format="boolean"/>
+    </declare-styleable>
