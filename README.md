@@ -1,5 +1,5 @@
 # SlidingTabLayout
-A forked version of Android  SlidingTabLayout with few modifications
+A forked version of Android  SlidingTabLayout with few modifications ( change tab text color and expand to occupy full width of screen)
 
 Use these following attributes to style your SlideLayout 
 
